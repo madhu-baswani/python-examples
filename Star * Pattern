@@ -1,0 +1,4 @@
+n = int(input("Enter a number for how many rows and colomns  :"))
+
+for i in range(n):
+    print('* '*n)
